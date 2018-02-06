@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="学生宿舍设备报修管理系统">
+</Property><Property Name="解决方案文件" Value="D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\学生宿舍设备报修管理系统.sln">
+</Property><Property Name="用户选项文件" Value="D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\学生宿舍设备报修管理系统.suo">
+</Property><Property Name="Date" Value="2016年1月5日">
+</Property><Property Name="Time" Value="10:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="学生宿舍设备报修管理系统.sln" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\学生宿舍设备报修管理系统.sln">
+</Event><Event ErrorLevel="0" Project="" Source="学生宿舍设备报修管理系统.suo" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\学生宿舍设备报修管理系统.suo">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\Bll.csproj" Description="项目文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\Bll.csproj">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\admin.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\admin.cs">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\repair.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\repair.cs">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\room.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\room.cs">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\shebie.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\shebie.cs">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\student.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Bll\student.cs">
+</Event><Event ErrorLevel="1" Project="Bll" Source="Bll\Bll.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\Bll.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Bll" Source="Bll\Bll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dal" Source="Dal\Dal.csproj" Description="项目文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Dal\Dal.csproj">
+</Event><Event ErrorLevel="0" Project="Dal" Source="Dal\DbHelperSQL.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Dal\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="Dal" Source="Dal\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Dal\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="Dal" Source="Dal\Dal.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Dal" Source="Dal\Dal.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Dal" Source="Dal\Dal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\admin.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\admin.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\repair.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\repair.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\room.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\room.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\shebie.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\shebie.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\student.cs" Description="文件已成功备份为 D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Backup\Model\student.cs">
+</Event><Event ErrorLevel="1" Project="Model" Source="Model\Model.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="学生宿舍设备报修管理系统.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="学生宿舍设备报修管理系统.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bll" Source="Bll\Bll.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Dal" Source="Dal\Dal.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

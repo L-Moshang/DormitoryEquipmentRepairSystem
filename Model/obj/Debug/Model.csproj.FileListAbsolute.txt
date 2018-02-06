@@ -1,0 +1,9 @@
+D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Model\bin\Debug\Model.dll
+D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Model\bin\Debug\Model.pdb
+D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Model\obj\Debug\Model.dll
+D:\tmp\11639-学生宿舍设备报修管理系统程序\学生宿舍设备报修管理系统\Model\obj\Debug\Model.pdb
+D:\Users\Administrator\Desktop\毕设\学生宿舍设备报修管理系统\Model\bin\Debug\Model.dll
+D:\Users\Administrator\Desktop\毕设\学生宿舍设备报修管理系统\Model\bin\Debug\Model.pdb
+D:\Users\Administrator\Desktop\毕设\学生宿舍设备报修管理系统\Model\obj\Debug\Model.dll
+D:\Users\Administrator\Desktop\毕设\学生宿舍设备报修管理系统\Model\obj\Debug\Model.pdb

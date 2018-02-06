@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="#" title="菜单管理"  description="">
+      <siteMapNode title="学生信息管理"  description="images/pro.gif">
+        <siteMapNode url="student_Add.aspx" title="学生信息录入"  description="images/pro.gif"  />
+        <siteMapNode url="student_Admin.aspx" title="学生信息管理"  description="images/pro.gif"  />
+      </siteMapNode>
+      <siteMapNode  title="宿舍信息管理"  description="images/pro.gif">
+        <siteMapNode url="room_Add.aspx" title="录入宿舍"  description="images/pro.gif" />
+        <siteMapNode url="room_Admin.aspx" title="管理宿舍"  description="images/pro.gif" />
+      </siteMapNode>
+      <siteMapNode  title="设备管理"  description="" >
+        <siteMapNode url="shebie_Add.aspx" title="设备录入" description="images/pro.gif" />
+        <siteMapNode url="shebie_Admin.aspx" title="设备管理" description="images/pro.gif" />
+      </siteMapNode>
+      <siteMapNode  title="报修管理"  description="" >
+        <siteMapNode url="repair_Admin.aspx" title="报修管理" description="images/pro.gif" />
+      </siteMapNode>
+      <siteMapNode  title="管理员管理"  description="" >
+        <siteMapNode url="admin_Add.aspx" title="管理员录入" description="images/pro.gif" />
+        <siteMapNode url="admin_Admin.aspx" title="管理员管理" description="images/pro.gif" />
+     
+      </siteMapNode>
+
+    </siteMapNode>
+</siteMap>
